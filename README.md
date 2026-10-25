@@ -15,13 +15,12 @@ Computer Science undergraduate at **IIIT Dharwad** building robust, deterministi
 ---
 
 ### ⚡ At a Glance
-- 🏆 **3x Hackathon Winner** — 1st Runner-Up @ ZeroDay Hacktoberfest (MLH × Google Gemma), 3rd Place @ HAL Hackathon, 1st Place @ GND_0 Hackathon.
+- 🏆 **3x Hackathon Winner** — 2nd Place @ ZeroDay Hacktoberfest (MLH × Google Gemma), 2nd Runner up @ HAL Hackathon, 1st Place @ GND_0 Hackathon.
 - ☕ **Core Engineering** — Strong focus on **Java** and **Spring Boot**, building clean, fault-tolerant REST APIs and microservice architectures.
 - 🌐 **Modern Full-Stack** — Writing type-safe, maintainable web applications with **TypeScript**, React, and Node.js.
 - 🛡️ **Verified AI & Data Systems** — Designing deterministic LLM pipelines with **Snowflake**, **DuckDB**, and local **Google Gemma** models (zero cloud API reliance).
 - ⚛️ **Quantum Computing** — Research co-author evaluating QAOA algorithms on real IBM Quantum hardware (`ibm_kingston`) via Qiskit.
-- 🎯 **Looking for** — Software Engineering and Backend/AI Internship opportunities.
-
+  
 ---
 
 ### 🏆 Key Achievements
