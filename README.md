@@ -26,9 +26,9 @@ Computer Science undergraduate at **IIIT Dharwad** building robust, deterministi
 
 ### 🏆 Key Achievements
 - 🥇 **1st Place** — *GND_0 VLSI Club Hackathon, IIIT Dharwad*.
-- 🥈 **1st Runner-Up** — *ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad × MLH × Google Gemma)* with **DataMind** (Track PS1: Talk to Your Data).
+- 🥈 **2nd Place** — *ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad × MLH × Google Gemma)* with **DataMind** (Track PS1: Talk to Your Data).
 - 🥉 **2nd Runner-Up** — *HAL Hackathon* with **RagVault** (Privacy-first offline RAG).
-- 🏅 **Top 2.5% (Top 800 of 32,000+ teams)** — *Meta × Hugging Face PyTorch OpenEnv Hackathon* (National Finalist).
+- **Top 2.5% (Top 800 of 32,000+ teams)** — *Meta × Hugging Face PyTorch OpenEnv Hackathon* (National Finalist).
 - 📄 **Research Co-Author** — Preprint on Quantum Approximate Optimization Algorithms (QAOA) on IBM Quantum hardware.
 
 ---
