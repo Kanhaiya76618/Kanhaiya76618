@@ -19,8 +19,8 @@
 
 | Result | Event | Project |
 |:--|:--|:--|
-| 🥇 **1st place** | GND_0 VLSI Club Hackathon, IIIT Dharwad | |
-| 🥈 **2nd place** | Qollab × IonQ Global Quantum Hackathon 2026 (997 participants) | Syndrome: You Are the Decoder |
+| 🥇 **1st place** | GND_0 VLSI Club Hackathon, IIIT Dharwad | [Telemetry Power Governor](https://github.com/Kanhaiya76618/telemetry-power-governor-rtl) |
+| 🥈 **2nd place** | Qollab × IonQ Global Quantum Hackathon 2026 (997 participants) | [Syndrome: You Are the Decoder](https://github.com/Kanhaiya76618/syndrome-you-are-the-decoder) |
 | 🥈 **1st runner-up** | ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad × MLH × Google Gemma), Track PS1 *Talk to Your Data* | [DataMind](https://github.com/Kanhaiya76618/DataMind) |
 | 🥉 **3rd place** | Qollab × IonQ Global Quantum Hackathon 2026 (997 participants) | [The Locked Museum](https://github.com/Kanhaiya76618/quantum-odyssey-locked-museum) |
 | 🥉 **2nd runner-up** | HAL Hackathon | RagVault |
@@ -32,7 +32,8 @@
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| 🥈 **Syndrome: You Are the Decoder** | A puzzle game where you play a quantum computer's error-correction decoder. You never see the qubits, only which alarm lamps (syndrome checks) light up, and you have to find and flip the damaged ones. | IonQ, Qollab |
+| 🥇 **[Telemetry Power Governor](https://github.com/Kanhaiya76618/telemetry-power-governor-rtl)** | Verilog RTL power governor for SoCs: reads workload activity and stalls, computes utilization over a time window, and switches power states through a hardware FSM that drives clock enables. Runs on a Xilinx Cora Z7 board with a live telemetry dashboard. Team project; I worked on RTL integration and FSM debugging and verification. | Verilog, Vivado, Vitis, Zynq, Python |
+| 🥈 **[Syndrome: You Are the Decoder](https://github.com/Kanhaiya76618/syndrome-you-are-the-decoder)** | A puzzle game where you play a quantum computer's error-correction decoder: you only see which parity checks fired, never the qubits. Five levels go from a three-qubit code to the distance-3 surface code, ending with a break-even test where the surface code beats a bare qubit on phase flips under IonQ Forte noise (**0.90% vs 2.80%**). | Qiskit, Python, JavaScript, IonQ, Qollab |
 | 🥈 **[DataMind (Nexora)](https://github.com/Kanhaiya76618/DataMind)** | Ask Snowflake questions in plain English. A local Gemma 4 model writes the SQL; six layers of code check it, and every number in the answer is traced to the rows it came from. **94% (62/66)** on a hand-written benchmark over TPC-H (8.7M rows); 206 automated tests. | Python, FastAPI, Snowflake, DuckDB, Ollama, React |
 | 🥉 **[Quantum Odyssey: The Locked Museum](https://github.com/Kanhaiya76618/quantum-odyssey-locked-museum)** | A five-floor museum of quantum history (71 milestones) where every staircase is locked by a puzzle only quantum mechanics can solve: interference, entanglement, teleportation, Grover search. Built with Arnav Angarkar. | JavaScript, Python, IonQ, Qollab |
 | 🎯 **[EnterpriseOps Arena](https://github.com/Kanhaiya76618/Meta-Hackathon)** | Multi-agent RL environment where IT, manager, finance and oversight agents run a simulated enterprise. Trained Qwen2.5-3B with GRPO and 4-bit LoRA on a single T4; peak episode score **+77%**. | PyTorch, TRL, Unsloth, OpenEnv |
@@ -52,4 +53,5 @@
 | **Data** | Snowflake, DuckDB, PostgreSQL (Supabase), TigerGraph, pandas |
 | **Backend & Web** | FastAPI, Pydantic, React, Next.js, Vite, Tailwind CSS, Three.js |
 | **Quantum** | Qiskit, Qiskit Runtime (IBM Quantum), IonQ |
+| **Hardware** | Verilog, Xilinx Vivado, Vitis |
 | **Tooling** | Docker, GitHub Actions, pytest, Vitest, Maven, LaTeX |
