@@ -24,7 +24,7 @@
 | 🥈 **1st runner-up** | ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad × MLH × Google Gemma), Track PS1 *Talk to Your Data* | [DataMind](https://github.com/Kanhaiya76618/DataMind) |
 | 🥉 **3rd place** | Qollab × IonQ Global Quantum Hackathon 2026 (997 participants) | [The Locked Museum](https://github.com/Kanhaiya76618/quantum-odyssey-locked-museum) |
 | 🥉 **2nd runner-up** | HAL Hackathon | RagVault |
-| 🎯 **National finalist**, top 800 of 32,000+ teams | Meta × PyTorch × Hugging Face OpenEnv Hackathon 2026 | [EnterpriseOps Arena](https://github.com/Kanhaiya76618/Meta-Hackathon) |
+| 🎯 **National finalist**, top 800 persons of 32,000+ persons | Meta × PyTorch × Hugging Face OpenEnv Hackathon 2026 | [EnterpriseOps Arena](https://github.com/Kanhaiya76618/Meta-Hackathon) |
 
 ---
 
